@@ -19,14 +19,7 @@
 
 三、怎么装
 
-1. 把 crazy-water-world-redeem.zip 解压到：
-   C:\Users\<你的用户名>\.workbuddy\skills\
-
-   解压后要能直接看到：
-   .workbuddy\skills\crazy-water-world-redeem\SKILL.md
-
-   如果变成 crazy-water-world-redeem\crazy-water-world-redeem\...，
-   说明多套了一层，把里层那个文件夹整个移到 skills\ 下。
+1. 复制项目地址发送给workbuddy，让他下载代码并安装 crazy-water-world-redeem skill。
 
 2. 关掉 WorkBuddy，重新打开。
 
